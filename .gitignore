@@ -1,0 +1,45 @@
+# Logs
+*.log
+*.logs
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# Unity build output
+/[Bb]uild/
+/[Bb]uilds/
+/[Oo]ut/
+
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]in/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+*.user
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+eThumbs.db
+desktop.ini
+
+# Package Lock
+Packages/com.unity.*
+
+# Local
+local.settings.json
